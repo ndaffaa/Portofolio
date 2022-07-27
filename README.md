@@ -6,8 +6,8 @@ The objective of this analysis is to automatically determine and predict the emo
 This project perform exploratory anaylysis of tweets, labelling sentiment(0 = "negative, 1 = "positive"),   preprocess the tweets, tokenizing and run classification models and evaluate them.
 
 ## Tools and module used
-*Machine Learning - Natural Language Processing | Classification Models | Tensorflow | Scikit Learn
-*Data Analysis - Pandas | Numpy | Matplotlib
-*App - Python
+* Machine Learning - Natural Language Processing | Classification Models | Tensorflow | Scikit Learn
+* Data Analysis - Pandas | Numpy | Matplotlib
+* App - Python
 
 
